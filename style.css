@@ -10,4 +10,21 @@
         margin: 0 16px;
         padding: 24px 0;
         font-size: 24px;
+      .escola {
+         backgroud-image:linear-gradient(383D58,#OOcOed);
+        color:white
+        display:flex;
+      }
+
+     .escola_conteudo{
+      width: 35%;
+      display:flex;
+      justify-content: center;
+      align-items: center;
+     }
+     .escola-imagem{
+      width:25%;
+     }
+     .escola-titulo {
+     padding: 24px O;
      }
