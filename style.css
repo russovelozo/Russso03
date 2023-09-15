@@ -28,3 +28,17 @@
      .escola-titulo {
      padding: 24px O;
      }
+    
+    
+     body{
+     font-family:'poppins',sans-serif;
+     }
+    .estudante-imagem{
+    width: 120px;
+    }
+    .estudante-icone{
+    width:24px;
+    }
+    .estudante-div{
+    text-align: center;
+    }
